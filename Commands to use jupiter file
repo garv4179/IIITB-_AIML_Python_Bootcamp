@@ -1,0 +1,79 @@
+Introduction to Jupyter Notebook
+Welcome to the Jupyter Notebook introductory session. You will use the Jupyter IPython Notebook as the main environment for writing Python code throughout this program and because of this reason, learning how to use the various functionalities present in the Jupyter Notebook is extremely crucial so that your coding experience going forward can be smooth. The main advantage of using Jupyter Notebook is that you can write both code and normal text (using the Markdown format in Jupyter) in the Notebooks. These notebooks are easy to read and share, and can even be used to present your work to others. 
+
+ https://ipython.readthedocs.io/en/stable/interactive/magics.html
+
+You can find the Jupyter IPython Notebook used in this session below. To open this notebook.
+
+ Download it to your local drive.
+Open the Jupyter Notebook as you have seen in the last segment, then find the file that you downloaded in point number 1 and double click on it. 
+The notebook will open in a new tab; you can explore the notebook environment and get comfortable with its use.   
+
+Using the Jupyter IPython Notebook
+Download
+Here's a brief of the concepts in the notebook. 
+
+ 
+
+Headings
+
+# for the titles
+## for the main headings
+### for the subheadings
+#### for the smaller subheadings
+##### for the italic subheadings
+Emphasis
+
+__string__ or **string** for bold text
+_string_ or *string*  for italic text
+Monospace fonts
+
+A back single quotation mark ` on both sides to get monospace fonts
+Line breaks
+
+<br> wherever you want a line break, as the notebook sometimes doesn`t give you the required line break where you want it
+Indenting
+
+> to indent the text
+>> for further indenting it, and so on
+Bullets and numbering
+
+A single dash, i.e. -  followed by two spaces to make bullet points
+A number and a dot followed by a space, i.e. 1. to make numbered lists
+Colouring
+
+<font color = blue, yellow, red, pink, green, etc.> String </font> to give your font any colour that you want
+LaTeX Equations
+
+$ on both the sides of the text to write LaTeX equations
+Next, it is also crucial that you know about the various shortcuts while using the Jupyter Notebook. 
+
+ 
+
+Command mode shortcuts
+
+Esc: To go into command mode
+Enter: To go back to edit mode
+M: To convert a cell to a markdown cell
+Y: To convert a cell back to a code cell
+A: To insert a new cell above
+B: To insert a new cell below
+D + D: To delete cell
+Z: Undo the last operation
+F: To find and replace on your code
+Shift + Up/Down: To select multiple cells
+Space: Scroll notebook downwards
+Shift + Space: Scroll notebook upwards
+Edit mode shortcuts
+
+Shift + Enter: To execute the code in the current cell and go to the next cell
+Alt + Enter: To execute the code in the current cell and insert new cell below
+Shift + Tab: To get a brief documentation of the object that you have just typed in the coding cell
+Ctrl + Shift + -: To split the cell at the cursor
+Shift + M: To merge selected cells
+We have also provided a link to all the shortcuts for Mac users below.
+
+Jupyter Notebook Mac shortcuts
+ 
+
+You will slowly get used to effortlessly using these commands to write codes efficiently on your Jupyter Notebook as you move forward, so do not worry about memorising these commands all at once right
